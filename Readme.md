@@ -5,4 +5,4 @@ Furthermore the project contains the feature of SweetAlert2 to show a fancy pop-
 
 ![Image of Game] (Benutzer/aylinyilmaz/Webstormprojects/tictactoe/tictactoe/ScreenOfGame.png)
 
-[Play the game!] (https://aylinyil.github.io) 
+[Play the game!](https://aylinyil.github.io/) 
